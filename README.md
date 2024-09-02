@@ -20,7 +20,6 @@ About This Project:
 -   🔒 Security
 -   🛡️ Data Protection
 -   🚀Caching with Redis
--   ⌛ And a lot more...
 
 ### Setup .env file
 
